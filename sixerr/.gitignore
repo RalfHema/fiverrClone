@@ -1,4 +1,5 @@
 __pycache__/
 db.sqlite3
 *.pyc
+_T14_2
 migrations/
