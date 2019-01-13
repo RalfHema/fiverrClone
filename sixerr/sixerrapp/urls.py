@@ -1,6 +1,5 @@
-from django.contrib import admin
 from sixerrapp import views
-from django.urls import include, path
+from django.urls import path
 
 urlpatterns = [
     path('', views.home, name='home'),
